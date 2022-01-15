@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Debasis Meher
-- 👀 I’m interested in Fromtend Develop
-- 🌱 I’m currently learning JavaFull Stack, JavaScript
-- 💞️ I’m looking to collaborate on a Mnc company
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning JavaFull Stack, JavaScript,HTML, CSS, AWS.
+- 💞️ I’m looking for a developer position on a start up company.
 - 📫 How to reach me debasismeher10@gmail.com
 
 <!---
